@@ -23,11 +23,14 @@ URL of GitHub repository:(Link)
  
 
 2) Business Problem or Opportunity, Domain Knowledge:
-Every month, different type of producers each state in USA generates billion of megawatts of energy from various sources like Coal, Petroleum, Natural Gas, Hydroelectric Conventional, Wind, Nuclear, Wood and Wood Derived Fuels, Biomass, Solar Thermal and Photovoltaic, Pumped Storage, Geothermal.
-Business opportunity /objective here is to identify the sources to predict Renewable energy generation by analyzing the data.
+Every month, different type of producers in each state in USA generates billions of megawatts per hour of energy from various sources like Coal, 
+Petroleum, Natural Gas, Hydroelectric Conventional, Wind, Nuclear, Wood and Wood Derived Fuels, Biomass, Solar Thermal and Photovoltaic, 
+Pumped Storage, Geothermal.
+Business opportunity/objective here is to identify the sources to predict renewable energy generation by analyzing the data.
  
 3) Selection of domain and data from the Open Data Registry for Amazon Web Services:
-US Energy Generation 2001-2022 : Monthly Generation by State, type of producer and type of source (https://www.kaggle.com/datasets/kevinmorgado/us-energy-generation-2001-2022)
+US Energy Generation 2001-2022 : Monthly Generation by State, type of producer and type of source 
+(https://www.kaggle.com/datasets/kevinmorgado/us-energy-generation-2001-2022)
  
 4) Research Objectives and Question(s) (what you are trying to describe or predict with the data):
 1.      Which states contribute to generating high renewable energy?
