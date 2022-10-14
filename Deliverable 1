@@ -1,0 +1,44 @@
+ITCS-6100 Big Data for Computational Advantage 
+Group 10
+
+Project Deliverable 1 
+
+1. Team
+
+A. Members
+
+Sai Reddy Busi Reddy
+Sanjana Naidu Gedela
+Koushik Vijay Kulkarni
+Chandra Manohar Reddy Kusam
+Brijesh Patel
+ 
+B. Communication Plan 
+
+The group meetings will be held virtually on zoom or google meet. The frequency of group meetings will be based on the project deliverables.
+Each group member agrees to attend group meetings on time. 
+Members agree to treat one another with respect. Respect includes no name-calling. If you don’t like an idea, address the idea, not the person.
+Members shall share their insights and findings on the group chat or on the shared folder: (Link) 
+URL of GitHub repository:(Link)
+ 
+
+2) Business Problem or Opportunity, Domain Knowledge:
+Every month, different type of producers each state in USA generates billion of megawatts of energy from various sources like Coal, Petroleum, Natural Gas, Hydroelectric Conventional, Wind, Nuclear, Wood and Wood Derived Fuels, Biomass, Solar Thermal and Photovoltaic, Pumped Storage, Geothermal.
+Business opportunity /objective here is to identify the sources to predict Renewable energy generation by analyzing the data.
+ 
+3) Selection of domain and data from the Open Data Registry for Amazon Web Services:
+US Energy Generation 2001-2022 : Monthly Generation by State, type of producer and type of source (https://www.kaggle.com/datasets/kevinmorgado/us-energy-generation-2001-2022)
+ 
+4) Research Objectives and Question(s) (what you are trying to describe or predict with the data):
+1.      Which states contribute to generating high renewable energy?
+2.      What type of energy producers generate highest renewable energy?
+3.      What are the trends in each state's transition from non-renewable to renewable energy generation over the years?
+4.      What is total energy generated from nuclear source in comparison to non-renewable?
+5.      Which year has highest total energy generated?
+6.      What months will have a higher renewable energy source?
+     What are top 10 states that generate high non-renewable energy vs renewable energy?
+
+
+
+
+
