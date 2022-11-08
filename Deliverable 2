@@ -1,0 +1,104 @@
+Deliverable 2
+Group-10
+Brijesh Patel		Sai Reddy Busi Reddy	Chandra Manohar Reddy Kusam	Sanjana Gedela	Koushik Vijay Kulkarni 
+
+Deliverable 2
+Group-10
+Brijesh Patel		Sai Reddy Busi Reddy	Chandra Manohar Reddy Kusam	Sanjana Gedela	Koushik Vijay Kulkarni 
+Dataset:
+The dataset includes energy generation records for all states in the United States of America, collected monthly by various types of energy producers from different non-renewable and renewable energy sources between 2001 and 2022. It contains columns like year and month of production, state in which the source was generated, type of energy producer, energy source, and energy generated in megawatt hours (MWh).
+Source: US Energy Generation 2001-2022 | Kaggle  (organised_Gen.csv) adapted from  Electricity - U.S. Energy Information Administration (EIA)
+
+Tools used for Data Analysis:
+Amazon S3, Amazon QuickSight, and Amazon Sagemaker
+
+Data Preparation:
+organised_Gen.csv contains a few negative values in the Generation (MWh) column that add no value in analysis, hence those records are cleaned.
+As part of the analysis, calculated fields are generated for the Generation column, which may contain high values, so to improve readability, a new column is created with energy measured in 1,000,000 MWh, which is Generation in TerraWatt hours (TWh).
+
+
+Month and year columns are grouped as one Date field for filtering data.
+
+
+
+Filters are added for State, Type of producer and Generation fields to exclude records with “total” generation and for Energy source field is filtered to categorize as Renewable and Non-renewable which include/exclude nuclear.
+
+ 
+
+Data Exploration:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data Visualization:
+
+Below, 2 maps show the renewable energy generated per state with or without nuclear sources included. Without a nuclear source included, Washington generates the most, and Illinois leads the energy generation with a nuclear source.
+
+
+
+
+
+
+
+
+Below, a filled and line graph show non-renewable energy generated per state and also comparisons between the energy generated throughout the past two decades from non-renewable and nuclear sources. Texas generates the most energy from non-renewable sources.
+
+
+
+
+
+
+
+
+
+
+The below pie chart draws a comparison between the energy generated from nuclear sources and the total energy from all sources.
+
+
+Below, bar graph and clustered bar graphs describe energy generated from different types of producers, with energy generators and utilities being the highest with 1.18 million TWh of generation.
+
+
+
+
+
+
+
+Below Bar graph with maximum energy generated as a reference line describes total energy generated across 2 decades (2001–2022). In 2018, 3.35 million TWh of total energy generated was the highest.
+
+
+
+
+
+
+
+
+
+Dashboard: 
+
+
+
+
+
+The dashboard above was created in Amazon Quicksight and it shows the graphs that were generated based on the questions we have inb terms of the research objective. We used those visualizations to describe the dataset. It is showing some of the graphs from above.
+
+
