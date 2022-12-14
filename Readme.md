@@ -5,6 +5,10 @@ We want to see how the energy is being used and generated in the US with the use
 
 
 
-
+**Deliverable 1 Video:**
 https://user-images.githubusercontent.com/71344442/207496157-a16fded9-413c-4129-af64-2eac5fdac622.mp4
+
+
+**Deliverable 2 Video:**
+https://user-images.githubusercontent.com/71344442/207500687-73561b33-b488-4c2d-ba18-b7352dc15e79.mp4
 
